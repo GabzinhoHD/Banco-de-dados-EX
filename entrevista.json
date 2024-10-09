@@ -2,52 +2,42 @@
       {
         "salgado": "Coxinha",
         "votos": 3000,
-        "comentario": "Coxinha é meu preferido! Sempre tem na cantina."
       },
       {
         "salgado": "Pão de queijo",
         "votos": 2200,
-        "comentario": "Nada como um pão de queijo quentinho!"
       },
       {
         "salgado": "Empada",
         "votos": 1800,
-        "comentario": "Adoro as de frango, são práticas e gostosas."
       },
       {
         "salgado": "Pastel",
         "votos": 1500,
-        "comentario": "Os pastéis de queijo são incríveis!"
       },
       {
         "salgado": "Salgadinho de queijo",
         "votos": 1300,
-        "comentario": "Um lanche rápido e sempre saboroso."
       },
       {
         "salgado": "Bolinha de queijo",
         "votos": 1000,
-        "comentario": "Perfeitas para compartilhar com os amigos!"
       },
       {
         "salgado": "Kibe",
         "votos": 800,
-        "comentario": "Uma opção nutritiva e saborosa."
       },
       {
         "salgado": "Esfirra",
         "votos": 700,
-        "comentario": "Adoro as de carne, são muito boas."
       },
       {
         "salgado": "Hot dog",
         "votos": 600,
-        "comentario": "O hot dog da escola é sempre uma boa pedida."
       },
       {
         "salgado": "Sanduíche natural",
         "votos": 500,
-        "comentario": "Uma opção saudável, mas não é meu favorito."
       }
     ]
 
