@@ -1,15 +1,12 @@
 {
-    "Coxinha": 3000,
-    "Pão de queijo": 2200,
-    "Empada": 1800,
-    "Pastel": 1500,
-    "Salgadinho de queijo": 1300,
-    "Bolinha de queijo": 1000,
-    "Kibe": 800,
-    "Esfirra": 700,
-    "Hot dog": 600,
-    "Sanduíche natural": 500
+  "Água": 3000,
+  "Café": 2200,
+  "Chá": 1800,
+  "Suco de laranja": 1500,
+  "Suco de limão": 1300,
+  "Suco de uva": 1000,
+  "Refrigerante": 800,
+  "Chá gelado": 700,
+  "Água de coco": 600,
+  "Caldo de cana": 500
 }
-
-
-
