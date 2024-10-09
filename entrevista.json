@@ -1,43 +1,42 @@
 [
-      {
-        "salgado": "Coxinha",
-        "votos": 3000,
-      },
-      {
-        "salgado": "Pão de queijo",
-        "votos": 2200,
-      },
-      {
-        "salgado": "Empada",
-        "votos": 1800,
-      },
-      {
-        "salgado": "Pastel",
-        "votos": 1500,
-      },
-      {
-        "salgado": "Salgadinho de queijo",
-        "votos": 1300,
-      },
-      {
-        "salgado": "Bolinha de queijo",
-        "votos": 1000,
-      },
-      {
-        "salgado": "Kibe",
-        "votos": 800,
-      },
-      {
-        "salgado": "Esfirra",
-        "votos": 700,
-      },
-      {
-        "salgado": "Hot dog",
-        "votos": 600,
-      },
-      {
-        "salgado": "Sanduíche natural",
-        "votos": 500,
-      }
-    ]
-
+  {
+    "bebida": "Água",
+    "votos": 3000
+  },
+  {
+    "bebida": "Café",
+    "votos": 2200
+  },
+  {
+    "bebida": "Chá",
+    "votos": 1800
+  },
+  {
+    "bebida": "Suco de laranja",
+    "votos": 1500
+  },
+  {
+    "bebida": "Suco de limão",
+    "votos": 1300
+  },
+  {
+    "bebida": "Suco de uva",
+    "votos": 1000
+  },
+  {
+    "bebida": "Refrigerante",
+    "votos": 800
+  },
+  {
+    "bebida": "Chá gelado",
+    "votos": 700
+  },
+  {
+    "bebida": "Água de coco",
+    "votos": 600
+  },
+  {
+    "bebida": "Caldo de cana",
+    "votos": 500
+  }
+]
